@@ -6,3 +6,5 @@
 * https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 * https://www.youtube.com/watch?v=EmSrQCDsMv4&list=PLWzwUIYZpnJuT0sH4BN56P5oWTdHJiTNq&index=3
 
+### To put the Website live
+- rename the repo with '.' instead of '_'
